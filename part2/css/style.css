@@ -1,9 +1,9 @@
 h1, h2 {
 	font-weight: normal;
-	
+	text-align: center;
 }
 
-#content {
+.container {
 	background: #FFFFEE;
 	width: 900px;
 	margin: 20px auto 20px auto;
@@ -23,6 +23,7 @@ h1, h2 {
 	color: red;
 	margin-bottom: 20px;
 	border-top: 2px solid red;
+	border-bottom: 2px solid red;
 	padding-top: 15px;
 }
 
@@ -43,13 +44,12 @@ h1, h2 {
 	color: blue;
 	text-align: center;
 	padding-bottom: 20px;
-	border-bottom: 2px solid red;
+	
 	margin-bottom: 40px;
 }
 
 #sidebar {
-	float: right;
-	width: 350px;
+	
 	padding-left: 20px;
 }
 

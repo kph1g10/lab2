@@ -3,8 +3,10 @@ h1, h2 {
 }
 
 #content {
+	background: #FFFFEE;
 	width: 900px;
 	margin: 20px auto 20px auto;
+	
 }
 
 #header {
